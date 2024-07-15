@@ -1,0 +1,9 @@
+ENERGIE SOUSTAVY:
+1265 
+PARAMETRY ÈÁSTIC:
+jména: 7 t t 4 9489 9489 
+poèty: 1 q a 1 8 8 
+hmotnosti: 2 w s 2 9 9 
+náboje: 34 we df 3 9 9 
+sigmy: 5 e g 45 646 646 
+epsilony: 6 rr h 6 549 549 

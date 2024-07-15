@@ -1,0 +1,9 @@
+ENERGIE SOUSTAVY:
+5
+PARAMETRY ÈÁSTIC:
+jména: 1 1 1 u u u 
+poèty: 2 2 2 w w w 
+hmotnosti: 4 4 4 e e e 
+náboje: 5 5 5 r r r 
+sigmy: 6 6 6 t t t 
+epsilony: 7 7 7 z z z 
